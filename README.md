@@ -1,1 +1,1 @@
-# Beecrowd
+Aqui você encontrará soluções para vários problemas do Beecrowd, estando em várias linguagens de programação diferentes. Os problemas estarão identificados pelos seus números.
